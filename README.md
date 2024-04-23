@@ -1,0 +1,1 @@
+# Efficient-Parallelization-of-Jarvis-March-and-Binary-Search-Tree-Algorithms-with-OpenMP-and-MPI
